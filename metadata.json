@@ -1,0 +1,6 @@
+{
+  "name": "Joyin",
+  "description": "A P2P based events app that allows anyone to create events and find local social gatherings in their neighborhood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

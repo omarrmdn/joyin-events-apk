@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730568974104",
+    "project_id": "joino-eg",
+    "storage_bucket": "joino-eg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730568974104:android:8fd64ee835a1b78202886d",
+        "android_client_info": {
+          "package_name": "com.joyin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730568974104-i8tsp26nrdqqhb0klillr8j37cf5vs4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBESECYB84CJDMORqfjqpMNDChfYyTJxL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730568974104-i8tsp26nrdqqhb0klillr8j37cf5vs4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
